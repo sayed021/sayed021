@@ -27,10 +27,13 @@
   </div>
 
   ###
+<div align="center">
+<img align="middle" height="150" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" />
+</div>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" />
+### 
 
-
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -50,4 +53,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+</div>
 </div>
